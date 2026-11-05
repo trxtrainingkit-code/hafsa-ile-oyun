@@ -161,3 +161,4 @@ address>a{display:block;overflow-wrap:anywhere;min-height:44px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.paper-bird{animation:none}*,*::before,*::after{animation:none!important;transition:none!important}}
 @media(max-width:1100px){.header{gap:var(--space-md)}.header #navigation{gap:var(--space-md)}.header #navigation a{font-size:14px}}
 @media(max-width:760px){.header .language-switch{width:auto;margin-left:auto;gap:var(--space-2xs);padding:0;order:2}.header #navigation{order:3}.header .menu-toggle{margin-left:auto}.header .brand{margin-right:auto}.language-switch a{min-width:32px;font-size:12px}}
+@media(min-width:761px){.hero-copy{grid-column:1/6;padding-right:var(--space-lg)}.hero-copy h1{font-size:clamp(2rem,4.2vw,4rem);max-width:100%}}
