@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Every HTML page supplies noindex. Crawling must remain allowed to read it.
